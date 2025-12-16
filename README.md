@@ -47,3 +47,5 @@ The goal was to convert fully operational data into monthly decision-level insig
 This project focuses on analytical insights and business learning.
 Sensitive business identfiers have been anonymized.
 
+![](Dashboard-Overview)
+
