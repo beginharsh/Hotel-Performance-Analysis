@@ -27,6 +27,7 @@ The goal was to convert fully operational data into monthly decision-level insig
 - Rooms Sold
 - Seasonality Trends
 - ### ADR VS Occupancy%
+
 ![](ADR-Vs-Occupancy%)
 
 
