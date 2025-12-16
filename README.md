@@ -5,6 +5,7 @@
 The dataset is based on a city-based budget hotel operating under an OTA- driven demand model.
 
 The goal was to convert fully operational data into monthly decision-level insight using Advanced Excel.
+![](Monthly-Summary)
 
 ## Business Context
 - Hotel Type: Independent / Budget City Hotel
@@ -14,7 +15,8 @@ The goal was to convert fully operational data into monthly decision-level insig
 
 
 ## Key Metrics Analyzed
-- Total Revenue
+- #Total Revenue
+- ![](Revenue-by-Month)
 - Totel Expenses
 - Total Profit
 - ADR (Average Daily Rate)
@@ -24,6 +26,10 @@ The goal was to convert fully operational data into monthly decision-level insig
 - OTA Comission Project 
 - Rooms Sold
 - Seasonality Trends
+- ### ADR VS Occupancy%
+![](ADR-Vs-Occupancy%)
+
+
 
 ## Key Insights:
 - Average ADR(1507) did not gurantee profitabliyu due to high fixed costs.
