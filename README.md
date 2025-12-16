@@ -14,7 +14,7 @@ Analysis Period: Jan 2023 - Dec 2024
 
 
 ## Key Metrics Analyzed
-Total Revenue
+#Total Revenue
 Totel Expenses
 Total Profit
 ADR (Average Daily Rate)
